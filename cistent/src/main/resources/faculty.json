@@ -1,0 +1,1210 @@
+[
+  {
+    "EMP_ID": "70003",
+    "NAME": "DR. HARI SEETHA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 222",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70023",
+    "NAME": "DR. SOUBHAGYA SANKAR BARPANDA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 427-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70029",
+    "NAME": "DR. AJITH JUBILSON E",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 407-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70032",
+    "NAME": "DR. HUSSAIN SYED",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 227-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70034",
+    "NAME": "DR. DEEPASIKHA MISHRA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "AB-1; 326-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70051",
+    "NAME": "DR. SAROJ KUMAR PANIGRAHY",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 320-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70054",
+    "NAME": "DR. ASISH KUMAR DALAI",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 327-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "00001",
+    "NAME": "DR. MUKKALA SWAROOP",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "FOOD STREET",
+    "FREE_TIMINGS": [],
+    "EMAIL": "swaroop.23mic7314@vitapstudent.ac.in"
+  },
+  {
+    "EMP_ID": "70071",
+    "NAME": "DR. HARI KISHAN KONDAVEETI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; G05-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70079",
+    "NAME": "DR. NANDHA KUMAR R",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 421-CTS",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70084",
+    "NAME": "DR. SIBI CHAKKARAVARTHY S",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 222",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70087",
+    "NAME": "DR. SUDHAKAR ILANGO S",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 320-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70103",
+    "NAME": "DR. ARAVAPALLI RAMA SATISH",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 408-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70104",
+    "NAME": "DR. DEVARAKONDA NAGARAJU",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; G05-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70107",
+    "NAME": "DR. GOPIKRISHNAN S",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; G05-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70110",
+    "NAME": "DR. JONNADULA HARIKIRAN",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 103-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70123",
+    "NAME": "DR. PRABHA SELVARAJ",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 415-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70125",
+    "NAME": "DR. SANDIPAN MAITI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "AB-2; G-02-C (SDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70140",
+    "NAME": "DR. GANESH REDDY KARRI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 221",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70151",
+    "NAME": "DR. KUMAR DEBASIS",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 223",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70167",
+    "NAME": "DR. SOMYA RANJAN SAHOO",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 407-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70202",
+    "NAME": "DR. VIKASH KUMAR SINGH",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "AB-1; G36",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70276",
+    "NAME": "DR. SENTHIL MURUGAN",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "N/A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70277",
+    "NAME": "DR. P. LALITHA KUMARI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 407-J",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70279",
+    "NAME": "DR. KARTHIKA NATARAJAN",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 426-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70280",
+    "NAME": "DR. SHEELA JAYACHANDRAN",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 407-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70281",
+    "NAME": "DR. UDIT NARAYANA KAR",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 426-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70282",
+    "NAME": "DR. P. KUPPUSAMY",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 103-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70294",
+    "NAME": "DR. MONALI BORDOLOI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 407-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70296",
+    "NAME": "DR. MANOMITA CHAKRABORTY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 407-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70306",
+    "NAME": "DR. REEJA S R",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; G04-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70307",
+    "NAME": "DR. G. MUNEESWARI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 104-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70308",
+    "NAME": "DR. DASARI VENKATA LAKSHMI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; G07-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70310",
+    "NAME": "DR. AFZAL HUSSAIN SHAHID",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 427-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70369",
+    "NAME": "DR. ARINDAM DEY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; G07-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70371",
+    "NAME": "DR. BOLEM SAI CHANDANA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; G04-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70388",
+    "NAME": "DR. RAJESH DUVVURU",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 427-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70390",
+    "NAME": "DR. BEEBI NASEEBA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 415-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70391",
+    "NAME": "DR. ESWARAIAH RAYACHOTI",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 201-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70397",
+    "NAME": "DR. NAGENDRA PANINI CHALLA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 415-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70399",
+    "NAME": "DR. SIDDIQUE IBRAHIM PEER MOHAMED",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 115-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70401",
+    "NAME": "DR. SELVA KUMAR S",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "AB2; G05 (SDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70436",
+    "NAME": "DR. NAGA JAGADESH BOMMAGANI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 201-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70438",
+    "NAME": "DR. PRASHANTH RAJAM",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 201-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70448",
+    "NAME": "DR. AZEES MARIA JOHN FRANCIS",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 204-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70455",
+    "NAME": "DR. SACHI NANDAN MOHANTY",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 205-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70457",
+    "NAME": "DR. KHASIM SYED",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 103-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70459",
+    "NAME": "DR. CHIRRA VENKATA RAMI REDDY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 407-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70465",
+    "NAME": "DR. Y. NARASIMHA RAO",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 415-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70466",
+    "NAME": "DR. V.C. BHARATHI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 415-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70469",
+    "NAME": "DR. M M VENKATA CHALAPATHI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 415-J",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70474",
+    "NAME": "DR. KAREEMULLA SHAIK",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 103-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70475",
+    "NAME": "DR. RADHA MOHAN PATTANAYAK",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 203-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70479",
+    "NAME": "DR. BOMMAREDDY LOKESH",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 227-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70482",
+    "NAME": "DR. SURENDRA REDDY VINTA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 229-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70487",
+    "NAME": "DR. ANIL VITHALRAO TURUKMANE",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 229-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70488",
+    "NAME": "DR. RAMKUMAR. D",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 229-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70493",
+    "NAME": "DR. HEMANT KUMAR REDDY K",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 427-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70505",
+    "NAME": "DR. DEEPTHI GODAVARTHI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 327-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70517",
+    "NAME": "DR. SRINIVASA REDDY KONDA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 312 (CDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70522",
+    "NAME": "DR. TAUSEEF KHAN",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 327-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70545",
+    "NAME": "DR. ANUPRIYA ELUMALAI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 312 (CDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70557",
+    "NAME": "DR. ANURAG DE",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 418-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70568",
+    "NAME": "DR. VISALAKSHI ANNEPU",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 415-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70576",
+    "NAME": "DR. SUMA KAMALESH GANDHIMATHI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 203-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70585",
+    "NAME": "DR. B V GOKULNATH",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 327-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70591",
+    "NAME": "DR. CHINTAKINDI BALARAM MURTHY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 128-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70592",
+    "NAME": "DR. NARESH SAMMETA",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 128-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70602",
+    "NAME": "DR. D. SANTHADEVI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 407-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70619",
+    "NAME": "DR. VENKATA BHIKSHAPATHI CHENAM",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 103-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70628",
+    "NAME": "DR. SURESH DARA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 418-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70630",
+    "NAME": "DR. MOHAN ALLAM",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 418-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70634",
+    "NAME": "DR. GOKUL YENDURI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 426-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70640",
+    "NAME": "DR. SRINIVASARAO POKURI",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 227-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70641",
+    "NAME": "DR. DEVULAPALLI SUDHEER",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 205-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70642",
+    "NAME": "DR. KODURU HAJARATHAIAH",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 418-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70643",
+    "NAME": "DR. V. SRILAKSHMI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 229-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70646",
+    "NAME": "DR. SUNKARA KALYANI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "AB-2; G-02-G (SDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70647",
+    "NAME": "DR. KOTHANDARAMAN D",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 418-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70648",
+    "NAME": "DR. KAILASH CHANDRA MISHRA",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 326-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70649",
+    "NAME": "DR. PRIYANKA SINGH",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 407-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70655",
+    "NAME": "DR. S. BHARATH BHUSHAN",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 415-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70667",
+    "NAME": "DR. POSHAM UPPAMMA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 116-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70680",
+    "NAME": "DR. T. RAMATHULASI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 116-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70685",
+    "NAME": "DR. EDARA SREENIVASA REDDY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; G07-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70686",
+    "NAME": "MR. SANAL KUMAR T.S",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 415-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70688",
+    "NAME": "DR. RAMANATHAN SHALINI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 227-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70689",
+    "NAME": "MRS. MONIKA A",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 128-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70690",
+    "NAME": "DR. MOHINDER SINGH B",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 407-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70694",
+    "NAME": "DR. RAJKUMAR YESURAJ",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 227-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70695",
+    "NAME": "DR. DONTAMALA PAUL JOSEPH",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 327-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70697",
+    "NAME": "DR. ADLA PADMA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 229-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70698",
+    "NAME": "DR. AMGOTHU SHANTHI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 427-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70699",
+    "NAME": "DR. RAVI KUMAR POLURU",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "AB-2; G-02-F (SDC)",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70700",
+    "NAME": "DR. JEEVANA JYOTHI PUJARI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 203-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70704",
+    "NAME": "DR. SHALINI SUBRAMANI",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 204-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70706",
+    "NAME": "DR. K ARAVIND",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 426-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70707",
+    "NAME": "DR. NGANG BAM INDRASON",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 418-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70708",
+    "NAME": "DR. MADALA GURU BRAHMAM",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 426-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70709",
+    "NAME": "MS. YARLAGADDA SIVA RESHMA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 407-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70711",
+    "NAME": "DR. RENITA R",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 204-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70712",
+    "NAME": "DR. MONALISA SAHU",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 408-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70714",
+    "NAME": "DR. RAJYA LAKSHMI ALLAPATI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 415-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70716",
+    "NAME": "MR. KANDRU LAKSHMI SAI PRANEETH",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 430-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70718",
+    "NAME": "DR. YALLANTI SOWJANYA KUMARI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70720",
+    "NAME": "DR. PAMULAPATI ASHOK REDDY",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 431-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70721",
+    "NAME": "DR. ANNAPAREDDY V N REDDY",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 431-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70722",
+    "NAME": "DR. GAYATHRI DHARA",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 327-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70724",
+    "NAME": "MR. MADUGULA KIRAN KUMAR",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 431-J",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70725",
+    "NAME": "DR. BHANU CHANDER BALUSA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70726",
+    "NAME": "MS. PECHETTI MOUNIKA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70727",
+    "NAME": "DR. PALACHARLA RAVI KUMAR",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 415-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70728",
+    "NAME": "MR. BURLA NAGARAJU",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 415-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70729",
+    "NAME": "DR. N LAKSHMIPATHI ANANTHA",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70730",
+    "NAME": "DR. GURUPRAKASH JAYABALASAMY",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "AB-1; 111",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70733",
+    "NAME": "MS. MANNEPULI SRUJANA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 431-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70734",
+    "NAME": "DR. BATTULA VENKATA SATISH BABU",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 418-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70735",
+    "NAME": "DR. SUBHANI SHAIK",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 103-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70736",
+    "NAME": "MR. JAYANTA PRATIHAR",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 432-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70738",
+    "NAME": "MS. PAIDIPOGU SOWJANYA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 128-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70740",
+    "NAME": "DR. ARAVIND KARROTHU",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 407-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70741",
+    "NAME": "DR. SAMUKA MOHANTY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 418-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70743",
+    "NAME": "DR. KOMMERLA SIVA KUMAR",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 418-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70751",
+    "NAME": "DR. VARUN KUMAR K A",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 204-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70753",
+    "NAME": "DR. RAJASEKHAR BODDU",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 432-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70759",
+    "NAME": "DR. YELEPI USHA RANI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 429-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70761",
+    "NAME": "DR. TEJASREE GANJI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 429-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70774",
+    "NAME": "DR. BILEESH P BABU",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 429-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70775",
+    "NAME": "DR. DASARI SANDEEP",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 430-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70776",
+    "NAME": "DR. SAROJA KUMAR ROUT",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 430-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70787",
+    "NAME": "DR. SRIKANTH BUSA",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 430-K",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70788",
+    "NAME": "DR. DEBASIS DWIBEDY",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 429-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70790",
+    "NAME": "DR. TATA GAYATHRI",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-I",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70792",
+    "NAME": "DR. PUTTA DURGA",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 432-C",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70793",
+    "NAME": "DR. KANNAIAH CHATTU",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 432-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70797",
+    "NAME": "MR. GUNDIMEDA VENUGOPAL",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 432-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70801",
+    "NAME": "DR. MOHAMMAD SIRAJUDDIN",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "AB-1; 165",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70805",
+    "NAME": "DR. GOVARDHANARAO INAMPUDI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 432-J",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70809",
+    "NAME": "DR. THANGAM SIVANANTHAM",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 432-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70810",
+    "NAME": "DR. MALLELA SIVA NAGA RAJU",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 433-G",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70812",
+    "NAME": "DR. SHAIK MOINUDDIN AHMED",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 433-H",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70814",
+    "NAME": "DR. VAMSI KIRAN MEKATHOTI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 433-J",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70815",
+    "NAME": "DR. VENKATA SIVANARAYANA GAYYI",
+    "DEPARTMENT": "DNS",
+    "CABIN_NO": "CB; 433-L",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70816",
+    "NAME": "DR. MADALA GARGI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 431-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70817",
+    "NAME": "DR. SURJIT PAUL",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 327-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70824",
+    "NAME": "DR. DIVYA LANKA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 408-D",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70827",
+    "NAME": "DR. S. VASAVI",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 408-E",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70828",
+    "NAME": "DR. N. MD. JUBAIR BASHA",
+    "DEPARTMENT": "DDSE",
+    "CABIN_NO": "CB; 104-A",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70829",
+    "NAME": "DR. THARUN NARAYAN SHANKAR",
+    "DEPARTMENT": "DSSE",
+    "CABIN_NO": "CB; 431-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70833",
+    "NAME": "DR. GOSALA BETHANY",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 432-F",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  },
+  {
+    "EMP_ID": "70834",
+    "NAME": "DR. S. SANTHADEVI",
+    "DEPARTMENT": "DAIML",
+    "CABIN_NO": "CB; 204-B",
+    "FREE_TIMINGS": [],
+    "EMAIL": ""
+  }
+]
